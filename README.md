@@ -18,5 +18,8 @@ Link the style.css file in the <head> section of your HTML file:
 Embed HTML:
 Add the HTML code for the animation wherever you want it to appear on your website. For example:
 
+
+
 Customization
+
 Feel free to customize the animation to suit your website's design and style. You can modify the styles in the style.css file to change colors, sizes, and other visual aspects of the animation.
